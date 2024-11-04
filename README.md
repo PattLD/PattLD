@@ -2,7 +2,7 @@
 
 <br/>
   <a href="https://github.com/tauz-hub/PattLD.git"><img alt="PattLD Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=PattLD&show_icons=true&count_private=true&theme=aura&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="PattLD Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PattLD&langs_count=10&count_private=true&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+  <a href="https://github.com/tauz-hub/PattLD.git"><img alt="PattLD Top Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PattLD&langs_count=10&count_private=true&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&hide=javascript"/></a>
   <br/>
 
 <div style="display: inline_block"><br>
