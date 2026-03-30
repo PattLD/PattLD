@@ -1,6 +1,6 @@
 ## Oie! Sou a Patt!
 
-Sou estudante de Ciências da Computação, estou no segundo semestre e me aventurando pelo universo da programação, algoritmos, banco de dados e desenvolvimento de software. 
+Sou estudante de Ciências da Computação, estou no quinto semestre e estou explorando universo da programação, algoritmos, banco de dados e desenvolvimento de software. 
 
 
 
