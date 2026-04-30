@@ -4,8 +4,7 @@ Sou estudante de Ciências da Computação, estou no 4 semestre e estou exploran
 
 ##
 
-<div style="display: inline_block"><br>
-  
+<div style="display: flex; gap: 8px; align-items: center;">
   <img align="center" alt="Patt-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
   <img align="center" alt="Patt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Patt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,5 +12,4 @@ Sou estudante de Ciências da Computação, estou no 4 semestre e estou exploran
   <img align="center" alt="Patt-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Patt-reactnative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg">
   <img align="center" alt="Patt-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-          
 </div>
