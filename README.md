@@ -1,6 +1,6 @@
 ## Oie! Sou a Patt!
 
-Sou estudante de Ciências da Computação, estou no quinto semestre e estou explorando universo da programação, algoritmos, banco de dados e desenvolvimento de software. 
+Sou estudante de Ciências da Computação, estou no 4 semestre e estou explorando universo da programação, algoritmos, banco de dados e desenvolvimento de software. 
 
 ##
 
@@ -14,5 +14,4 @@ Sou estudante de Ciências da Computação, estou no quinto semestre e estou exp
   <img align="center" alt="Patt-reactnative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg">
   <img align="center" alt="Patt-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
           
-    
 </div>
